@@ -1,0 +1,9 @@
+html {
+	direction: rtl;
+	font-family: "IBM Plex Sans Arabic", sans-serif !important;
+	display: flex;
+	justify-content: center;
+}
+
+
+
